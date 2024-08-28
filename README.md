@@ -4,7 +4,7 @@
 👩🏻‍💻 Full Stack Développeur<br/>
 👩🏻‍🎓 Studied Full Stack Développement at the HETIC and EEMI, Paris France<br/>
 
-[![](https://github-readme-stats.vercel.app/api?username=renaudfradin&theme=radical&hide_border=false&include_all_commits=true&count_private=true)]
+![](https://github-readme-stats.vercel.app/api?username=renaudfradin&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
