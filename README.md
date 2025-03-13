@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Renaud Fradin !
 ![alt text](https://raw.githubusercontent.com/Renaudfradin/Renaudfradin/main/img/star-wars-obi-wan-kenobi.gif)
 
-👩🏻‍💻 Full Stack Développeur<br/>
+👩🏻‍💻 Full Stack Développeur on Clubfunding<br/>
 👩🏻‍🎓 Studied Full Stack Développement at the HETIC and EEMI, Paris France<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=renaudfradin&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![Renaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=renaudfradin&show_icons=true&bg_color=00000000)
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -14,6 +14,3 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
