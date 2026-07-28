@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Renaud Fradin !
 ![alt text](https://raw.githubusercontent.com/Renaudfradin/Renaudfradin/main/img/star-wars-obi-wan-kenobi.gif)
 
-👩🏻‍💻 Full Stack Développeur on Koncrete<br/>
+👩🏻‍💻 Full Stack Développeur on Koncrete X)<br/>
 👩🏻‍🎓 Studied Full Stack Développement at the HETIC and EEMI, Paris France<br/>
 
 # 📊 GitHub Stats:
